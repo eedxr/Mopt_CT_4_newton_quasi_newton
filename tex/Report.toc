@@ -1,0 +1,23 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические основы}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Мотивация: ограничения градиентного спуска}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Число обусловленности и его влияние}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Линейный поиск и условия Вольфе}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Описание методов}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Метод сопряжённых градиентов (квадратичный CG)}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Нелинейные методы CG (Флетчер--Ривз, Полак--Рибьер)}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Метод Ньютона с разложением Холецкого}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Метод Ньютона с выбором направления}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Метод области доверия (Powell's Dog Leg)}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Квазиньютоновские методы: DFP и BFGS}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}L-BFGS (ограниченная память)}{5}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Результаты}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Квадратичные функции: зависимость от размерности и обусловленности}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Траектории на 2D квадратичной функции}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Тестовые функции}{14}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Функция Розенброка}{14}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Функция Химмельблау}{18}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Влияние размера памяти L-BFGS}{22}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Сравнение методов}{24}{section.5}%
+\contentsline {section}{\numberline {6}Выводы}{24}{section.6}%
